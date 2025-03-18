@@ -24,8 +24,8 @@ This project analyzes global weather trends using **LSTM (Deep Learning)** and *
    - ✅ **Prophet (Explainability):** Auto-detects trends & seasonality in data  
 
 4️⃣ **Model Evaluation**  
-   - **Mean Absolute Error (MAE):** 15.94  
-   - **Root Mean Squared Error (RMSE):** 19.97  
+   - **Mean Absolute Error (MAE):** 42.76  
+   - **Root Mean Squared Error (RMSE):** 47.57  
    - **Performance Comparison:** LSTM vs Prophet  
 
 ---
